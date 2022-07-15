@@ -1,2 +1,2 @@
 # Basic-Html-Css-Samples
- Yeni başlayanalr için basit Html-Css site örnekleri
+ Yeni başlayanlar için basit ve responsive Html-Css site örnekleri
